@@ -1,0 +1,89 @@
+.top_box, .menu, .leng {
+    display: flex;
+
+}
+/*.menu {*/
+/*    display: flex;*/
+
+/*}*/
+img {
+    width: 35px;
+    height: 24px;
+    margin-top: 54px;
+    margin-left: 80px;
+}
+
+p {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-left: 16px;
+    margin-top: 56px;
+}
+.section {
+    color: #A5A5A5;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 150%;
+    margin-left: 80px;
+    margin-top: 147px;
+}
+.logo {
+background: url(./img/UBT_logo.png);
+    width: 424px;
+    height: 215px;
+    margin-top: 45px;
+    margin-left: 151px;
+
+}
+.leng {
+
+    width: 18px;
+    height: 18px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+}
+.txt_and_pic {
+    display: block;
+
+}
+.data, .title{
+    margin-left: 297px;
+}
+.data {
+    color: #01933C;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 150px;
+}
+
+.title {
+    color: #252525;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 109.5%;
+    width: 846px;
+    margin-right: 297px;
+}
+.foto {
+    background: url(./img/Rectangle.png);
+    width: 1064px;
+    height: 557px;
+    margin-left: 188px;
+}
+.text {
+    color: #252525;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 150%;
+    margin-left: 297px;
+}
