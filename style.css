@@ -1,3 +1,6 @@
+body{
+    width: 1440px;
+}
 .top_box, .menu, .leng, .black_fon {
     display: flex;
 
