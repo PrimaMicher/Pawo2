@@ -87,47 +87,6 @@ background: url(./img/UBT_logo.png);
     line-height: 150%;
     margin: 42px 297px 160px;
 }
-.black_fon {
-    background: #1D1D1D;
-    height: 250px;
-}
-.contact{
-    display: block;
-   /*margin-left: 80px;*/
 
-}
 
-.cont{
-    color: #C4C4C4;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 17px;
-    margin-top: 68px;
-    margin-left: 80px;
-
-}
-.tel{
-    background: #C4C4C4;
-    color: #ffffff;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 160%;
-    height: 24px;
-}
-
-.mail {
-
-    color: #ffffff;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 160%;
-    height: 24px;
-}
-.bottom_logo {
-    width: 291px;
-    height: 148px;
-}
 
