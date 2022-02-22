@@ -1,19 +1,22 @@
-body{
-    width: 1440px;
+body {
+    width: 100%;
+
 }
-.top_box, .menu, .leng, .black_fon {
+.top_box, .menu, .leng {
     display: flex;
-
+}
+.top_box {
+    justify-content: space-between;
 }
 
-img {
+.menu > img {
     width: 35px;
     height: 24px;
     margin-top: 54px;
     margin-left: 80px;
 }
 
-p {
+.menu > p {
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -36,18 +39,26 @@ background: url(./img/UBT_logo.png);
     height: 215px;
     margin-top: 45px;
     margin-left: 151px;
+    margin-right: 371px;
 
 }
 .leng {
-
+     margin: 45px 80px 0 0;
+}
+.leng > img {
     width: 18px;
     height: 18px;
+}
 
+.leng > p {
+
+    margin: 0 0 0 2px;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 20px;
 }
+
 .txt_and_pic {
     display: block;
 
@@ -61,7 +72,8 @@ background: url(./img/UBT_logo.png);
     font-weight: 500;
     font-size: 16px;
     line-height: 20px;
-    margin-top: 150px;
+    margin: 150px auto 12px auto;
+    max-width: 846px;
 }
 
 .title {
@@ -70,14 +82,14 @@ background: url(./img/UBT_logo.png);
     font-weight: bold;
     font-size: 40px;
     line-height: 109.5%;
-    width: 846px;
-    margin-right: 297px;
+    max-width: 846px;
+    margin: 0 auto 42px auto;
 }
 .foto {
     background: url(./img/Rectangle.png);
     width: 1064px;
     height: 557px;
-    margin-left: 188px;
+    margin: 0 auto 0 auto;
 }
 .text {
     color: #252525;
@@ -85,7 +97,8 @@ background: url(./img/UBT_logo.png);
     font-weight: normal;
     font-size: 18px;
     line-height: 150%;
-    margin: 42px 297px 160px;
+    max-width: 846px;
+    margin: 42px auto 0 auto;
 }
 
 
